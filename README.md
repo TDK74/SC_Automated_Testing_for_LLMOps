@@ -3,7 +3,7 @@
 ### Acknowledgments
 The Python code is from the short course "Automated Testing for LLMOps" on the DeepLearning.AI platform, available for free.  
 For more details, visit:  
-< >
+<https://www.deeplearning.ai/short-courses/automated-testing-llmops/>
 
 ### Description
 This repository contains only Python code from my practice after each lesson.  
