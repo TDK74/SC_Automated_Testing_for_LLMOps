@@ -1,9 +1,9 @@
 # Short Course: Automated Testing for LLMOps
 
 ### Acknowledgments
-The Python code is from the short course "Automated Testing for LLMOps" on the DeepLearning.AI platform, available for free.  
+The Python code is from the short course "Automated Testing for LLMOps" on the DeepLearning.AI platform. The course content is available for free, while the certificate and graded assessments require a paid subscription.  
 For more details, visit:  
-<https://www.deeplearning.ai/short-courses/automated-testing-llmops/>
+<https://learn.deeplearning.ai/courses/automated-testing-llmops/information>
 
 CircleCI public Github link:  
 <https://github.com/circleci-public/python-orb/>
